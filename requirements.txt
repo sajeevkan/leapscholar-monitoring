@@ -1,0 +1,6 @@
+streamlit
+tweepy
+praw
+textblob
+wordcloud
+matplotlib
